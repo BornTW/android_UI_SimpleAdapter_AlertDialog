@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListView1</string>
+    <!--创建自定义布局的AlertDialog-->
+    <string name="username">username</string>
+
+    <string name="password">password</string>
+
+    <string name="signin">sign in</string>
+
+    <string name="cancel">cancel</string>
+
+
+</resources>
