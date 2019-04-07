@@ -20,6 +20,6 @@ SimpleAdapter,跟名字一样,一个简单的适配器,既为简单,就只是被
 
 ### 创建如图所示的自定义对话框
 请创建一个如图所示的布局，调用AlertDialog.Builder 对象上的setView() 将布局添加到AlertDialog。<br>
-
+![AlertDialog效果图片](https://github.com/BornTW/android_UI_SimpleAdapter_AlertDialog/blob/master/Images/android_UI_SimpleAdapter_AlertDialog_2.png)
 
 
